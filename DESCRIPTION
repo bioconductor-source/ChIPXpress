@@ -3,7 +3,7 @@ Type: Package
 Title: ChIPXpress: enhanced transcription factor target gene
         identification from ChIP-seq and ChIP-chip data using publicly
         available gene expression profiles
-Version: 1.57.1
+Version: 1.57.2
 Date: 2012-12-09
 Author: George Wu
 Maintainer: George Wu <georgetwu@gmail.com>
@@ -21,3 +21,4 @@ Suggests: mouse4302frmavecs, mouse4302.db, mouse4302cdf, RUnit,
 Packaged: 2012-09-15 02:12:51 UTC; gewu
 biocViews: ChIPchip, ChIPSeq
 Config/Bioconductor/UnsupportedPlatforms: windows
+PackageStatus: Deprecated
